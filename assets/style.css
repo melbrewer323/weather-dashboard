@@ -1,10 +1,25 @@
 *{
     box-sizing: border-box;
+
 }
 header {
     padding: 40px;
     text-align: center;
-    background: #4392db;
-    color: #fff;
+    background: #85b7e6;
+    color: rgb(90, 83, 83);
   }
   
+  #current-weather {
+    border-radius: 25px;  
+    width: 95%;
+    height: 300px;
+    padding: 30px;
+    border: 1px solid grey;
+    
+  }
+
+.col-sm-2 {
+    height: 250px;
+    background-color: grey;
+    border-radius: 25px;
+}
