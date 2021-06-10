@@ -1,4 +1,3 @@
-var APIKey = "1aad1d2ff9ff11a4cfcf3778766ed9c6";
 var button = document.querySelector(".btn");
 var searchInput = document.querySelector("#search-input");
 
